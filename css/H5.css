@@ -1,4 +1,7 @@
 /* H5对象的全局样式 */
+body{
+    font-family: "微软雅黑","Microsofot Yahei";
+}
 .h5{
     height: 100%;
 }
