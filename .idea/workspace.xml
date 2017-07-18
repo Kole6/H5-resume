@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50e8de2e-bf6d-4136-9f14-f888992e2367" name="默认" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/H5.css" afterPath="$PROJECT_DIR$/css/H5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,17 +22,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2366">
-              <caret line="171" column="80" lean-forward="true" selection-start-line="171" selection-start-column="80" selection-end-line="171" selection-end-column="80" />
+            <state relative-caret-position="338">
+              <caret line="220" column="45" lean-forward="false" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="H5.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="H5.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/H5.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
@@ -63,8 +63,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/H5ComponentBase.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/H5.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -156,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500363588248</updated>
-      <workItem from="1500363592595" duration="482000" />
+      <workItem from="1500363592595" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="482000" />
+    <option name="totallyTimeSpent" value="639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -206,18 +206,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2366">
-          <caret line="171" column="80" lean-forward="true" selection-start-line="171" selection-start-column="80" selection-end-line="171" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/H5.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="220" column="45" lean-forward="false" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
           <folding />
         </state>
       </provider>
