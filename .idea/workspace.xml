@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50e8de2e-bf6d-4136-9f14-f888992e2367" name="默认" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/H5ComponentPoint.css" afterPath="$PROJECT_DIR$/css/H5ComponentPoint.css" />
-    </list>
+    <list default="true" id="50e8de2e-bf6d-4136-9f14-f888992e2367" name="默认" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -167,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500363588248</updated>
-      <workItem from="1500363592595" duration="1254000" />
+      <workItem from="1500363592595" duration="1483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1254000" />
+    <option name="totallyTimeSpent" value="1483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
